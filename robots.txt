@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://isovmloy.github.io/sitemap/sitemap.txt
